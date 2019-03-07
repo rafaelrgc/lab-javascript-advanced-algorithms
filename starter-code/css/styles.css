@@ -1,0 +1,28 @@
+.list-stack {
+}
+
+.list-stack-item {
+    border: 1px solid white;
+    background-color: whitesmoke;
+    list-style-type: none;
+    width: 300px;
+    
+}
+
+.btn-stack {
+    width: 300px;
+    margin-left: 40px;
+}
+
+.btn-space {
+    margin-bottom: 10px;
+}
+
+.input-stack {
+    padding: 5px 0;
+}
+
+
+.container h2{
+    margin-left: 40px;
+}
