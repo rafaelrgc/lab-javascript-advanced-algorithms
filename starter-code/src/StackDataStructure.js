@@ -1,3 +1,4 @@
+stack = new StackDataStructure();
 
 function StackDataStructure () {
     this.stackControl = [];
